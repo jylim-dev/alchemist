@@ -1,2 +1,4 @@
-# Alchemist
-Urim and Thummim ⚪⚫
+# Urim and Thummim ⚪⚫ for _Alchemist_
+
+### Themes
+- Game
